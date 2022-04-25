@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dannydai123
+- 👋 Hi, I’m @Dannydai123 , my name is Danny.
 - I'm working on network and telecom field for more than 20 years. GSM, CDMA, voice switching 
 - I'm a veteran for cisco stuff . been a CCIE for so long.  and worked for Cisco ,Motorola and Paloalto networks ....and....more
 - I work out of Shanghai, CHINA.  but I love to learn western culture and talk to others. really into pizza. dont love to eat Chinese food. 
