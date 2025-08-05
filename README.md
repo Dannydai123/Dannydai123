@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dannydai123 , my name is Danny.
-- I'm working in network and telecom fields for more than 20 years. Worked at Cisco, Siemens , MOtorola, Paloalto networks, Akmai, VMware
+- I work in network and telecom fields for more than 20 years. Worked at Cisco, Siemens , MOtorola, Paloalto networks, Akmai, VMware
 - I'm skilled in networking, network security, audio and video project, K8s.
 - CCIE and CKA and more certificates
 - I work out of Shanghai, CHINA.  but I love to know about andlearn western culture and talk to others. 
